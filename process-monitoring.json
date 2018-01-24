@@ -1,6 +1,6 @@
 [
     {
-     "processName":"Order To Cas",
+     "processName":"Order To Cash",
      "processStatus":"OK",
      "processMessage":"Message Order To Cash",
      "processIssueCount":"4",
